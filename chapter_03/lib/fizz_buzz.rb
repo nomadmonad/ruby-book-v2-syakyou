@@ -9,8 +9,3 @@ def fizz_buzz(number)
     number.to_s
   end
 end
-
-puts fizz_buzz(3)
-puts fizz_buzz(4)
-puts fizz_buzz(5)
-puts fizz_buzz(15)
